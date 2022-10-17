@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+<h1>Pizza a la parrilla costera</h1>
+
+<h2>Recomendaciones generales para realizar la pizza</h2>
+<p>Antes de empezar tenemos que asegurarnos una serie de cosas. Al horno es mucho más sencillo porque encendemos el horno, estiramos la masa sobre una placa y listo. A la parrilla tenemos que asegurarnos de tener los fierros bien limpios, al igual que en una placa, aceitar los fierros, calentar bien la parrilla al inicio y luego bajar el fuego, para que no se nos queme la pizza y el último tip, cocinar de un lado unos minutos y luego dar vuelta y esparcirle los ingredientes por encima.</p>
+
+<h2> Ingredientes</h2>
+
+<ul>
+  <li>1 kg de Harina</li>
+  <li>50 gr de levadura fresca</li>
+  <li>2 cucharadas de sal</li>
+  <li>3 cucharadas de aceite de oliva</li>
+  <li>500 cc de agua tibia</li>
+  <li>1 diente de ajo</li>
+  <li>Puré o Salsa de tomate</li>
+  <li>Queso cremoso</li>
+  <li>Oregano, pimienta a gusto. Ingredientes para sumar</li>
+</ul>
+
+<h2>Elaboración de la masa</h2>
+
+<ol>
+  <li>Poner en un bowl la harina y la sal</li>
+  <li>Activar la levadura en un vaso con un chorro de agua tibia. Luego agregar sobre la harina y comenzar a mezclar los ingredientes</li>
+  <li>Incorporar el aceite y de a poco el agua tibia cantidad necesaria, según necesite la masa</li>
+  <li>Amasar hasta que tenga una consistencia lisa, pero más dura que una pizza tradicional</li>
+  <li>Dejar leudar unos 30/35 minutos hasta que duplique su volumen</li>
+  <li>Para cocinar la parrilla tiene que estar bien caliente, mojar con un poco de aceite de oliva los fierritos de nuestra parrilla y poner la masa encima, debe quedar fina pero que sea fácil de manipular</li>
+  <li>Recordamos que la cocción sea rápida, para que no se nos queme. Dar vuelta e incorporar los ingredientes para nuestra variedad, recordar que lo mejor es que al momento de agregar los ingredientes es importante que tras darla vuelta luego la mozzarella rallada por encima</li>
+</ol>
+
+<h2>Preparación de las salsas</h2>
+<p>La cantidad de ingredientes va de la mano de las preparaciones que haremos, pero acá va la receta para cuatro pizzas. Picamos un diente de ajo, lo ponemos en una sartén con un chorrito de aceite a fuego bajo, que no se nos queme, (si esto sucede descartarlo y comenzar de nuevo porque el ajo quemado le da mal sabor). Abrimos el pure de tomates y lo agregamos a la sartén. Cocinamos hasta que hierva, le agregamos como condimentos sal, pimienta y orégano. Nada más.</p>
+
+<p>Acto seguido cortar en fetas el queso, y agregar y esperar de 5 a 10 minutos hasta que se derrita. Opciones que usualmente se usan para decorar son: rúcula, huevo hervido, fetas de jamón, o el clásico provenzal.</p>
+<br>
+<img src="./imagenes/comidas/pizza.jpg" alt="foto de pizza">
+<br>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYjiqSvkFZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d27193.86024589041!2d-60.53489504999999!3d-31.572670700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1666019113934!5m2!1ses!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
+
+</body>
+</html>
